@@ -1,0 +1,6 @@
+
+html, body {
+    background-color: lightblue;
+    margin: 0; /* Removes default browser borders */
+    padding: 0;
+}
