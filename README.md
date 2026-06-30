@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bobert 3D</title>
+   Bobert 3D
 </head>
 <body> Hi! My name is Cal and I run the company Bobert 3D! I love 3D printing and coding! Have fun digging around!</body>
 <body style="background-color: powderblue;">
