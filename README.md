@@ -28,6 +28,5 @@
 </section>
 
 <footer>
-  My doggos and me!
-  <img src="IMG_0371.jpeg" alt=Me and my doggo Siggi!"">
+
 </footer>
